@@ -6,10 +6,11 @@ tags: [memoir, speaking, data]
 summary: A first Tech Jam, weeks of preparation, and learning to make technical work land with a room.
 ---
 
-Status: MissionAccomplished
-Date: September 20, 2024
-Learning Curve: Off the Charts
-Mood: Feeling refreshed and confident, yet humbled by the journey ahead.
+<dl class="post-facts">
+  <div><dt>Status</dt><dd>MissionAccomplished</dd></div>
+  <div><dt>Learning Curve</dt><dd>Off the Charts</dd></div>
+  <div><dt>Mood</dt><dd>Feeling refreshed and confident, yet humbled by the journey ahead.</dd></div>
+</dl>
 
 *A journey through presentations, nerves, and public speaking…*
 
