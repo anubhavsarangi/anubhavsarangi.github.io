@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-<header class="page-intro">
+<header class="page-intro about-intro">
   <div>
     <p class="eyebrow">About</p>
-    <h1>I like making complicated things feel simpler.</h1>
+    <h1>I engineer more than pipelines. I build trust in data.</h1>
   </div>
   <img class="profile-photo" src="{{ '/assets/images/anubhav-profile.png' | relative_url }}" alt="Anubhav Sarangi">
 </header>
