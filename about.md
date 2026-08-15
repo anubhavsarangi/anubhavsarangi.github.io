@@ -14,7 +14,7 @@ permalink: /about/
 </header>
 
 <div class="prose about-copy">
-  <p>I engineer more than pipelines. I build trust in data. I work across software, data, analytics, and AI engineering. I love solving messy problems and shaping them into insights that actually matter. Currently at the intersection of data engineering and applied AI, I help scale data platforms, streaming media and ads measurement, and conversational discovery platforms - with Python, SQL, AWS, and GCP in my everyday toolkit. I’m interested in agentic systems and grounded AI, but equally in the engineering discipline that lets them survive outside a demo.</p>
+  <p>I engineer more than pipelines. I build trust in data. I work across software, data, analytics, and AI engineering. I love solving messy problems and shaping them into insights that actually matter. Currently at the intersection of data engineering and applied AI, I help scale data platforms, streaming media and ads measurement, and conversational discovery platforms - with Python, SQL, AWS, and GCP in my everyday toolkit. Lately, I’ve been exploring agentic systems and grounded AI, with equal interest in the engineering discipline that lets them survive outside a demo.</p>
 
   <p>When I’m not deep in schemas and scripts, you’ll find me playing the piano or getting lost in nature trails - both teach rhythm and perspective, useful in data too.</p>
 
