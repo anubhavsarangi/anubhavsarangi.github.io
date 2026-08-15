@@ -3,6 +3,7 @@ description: Notes on software, data, AI, travel, and the things worth rememberi
 url: "https://anubhavsarangi.github.io"
 baseurl: ""
 author: Anubhav
+ga_measurement_id: "G-GR7DP67QKE"
 timezone: Asia/Singapore
 permalink: /writing/:title/
 markdown: kramdown
