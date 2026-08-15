@@ -93,3 +93,5 @@ AI that trains my train of thought - speaking everything perfectly, straight fro
 So yeah, this is just the beginning. Today wasn’t just about a presentation - it was about learning. It was about stepping out of my comfort zone and figuring out how to share technical details with a crowd in a way that sticks. There’s still a long way to go - and, I’m ready for what’s next.
 
 P.S. *To everyone who’s ever Googled “how to make presentations cooler,” keep going. And if you figure it out, let me know.*
+
+*For the visual footnotes, see a few photos from the day on [LinkedIn](https://www.linkedin.com/posts/anubhavsarangi_mediacorp-techjam-lifelearnings-activity-7249235780139679745-78Vw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB8Qvj8Bv2YNK3v7VPYpfD4BfsinlNakJKE).*

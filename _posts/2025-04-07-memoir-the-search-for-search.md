@@ -159,3 +159,5 @@ We went up on stage for the formal ceremony, and Anil shared some kind words:
 At the heart of it, hackathons aren’t about the prizes - they’re about the challenge, the learning, and most importantly, the connections forged along the way. The late-night debugging, endless Slack messages, the rush for a working prototype, prepping the pitch - these are the moments that truly matter.
 
 Hackathons remind us that the best ideas come from diverse minds collaborating towards a shared vision - and that’s the real win.🏆 🚀
+
+*For the visual footnotes, see a few photos from the day on [LinkedIn](https://www.linkedin.com/posts/anubhavsarangi_what-if-finding-trustworthy-news-was-as-intuitive-ugcPost-7311282915605168129-Sj4f/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB8Qvj8Bv2YNK3v7VPYpfD4BfsinlNakJKE).*
