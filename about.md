@@ -20,5 +20,4 @@ permalink: /about/
 
   <p>This site is a place for the things that do not fit neatly into a ticket or a presentation: technical notes, lessons from building, travel memoirs, experiments, and thoughts I want to remember properly.</p>
 
-  <p>When I’m not looking at systems, I’m usually curious about places, people, and why a change of scenery rearranges the way we think.</p>
 </div>
