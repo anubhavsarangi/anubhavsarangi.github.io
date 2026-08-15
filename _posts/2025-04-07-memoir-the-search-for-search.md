@@ -31,7 +31,7 @@ I started diving into online resources about RAGs, how search engines work, how 
 
 And then, another email landed in my inbox in early February: "Digital Hackathon Week - Register Now!"
 
-It said: "This is your chance to get involved in some exciting problem-solving! Whether you're into brainstorming fresh ideas, tackling challenges, or working together to create innovative solutions—this is the perfect opportunity to shine."
+It said: "This is your chance to get involved in some exciting problem-solving! Whether you're into brainstorming fresh ideas, tackling challenges, or working together to create innovative solutions - this is the perfect opportunity to shine."
 
 Bam! I was crystal clear – let's go for it. At the same time, I had butterflies in my stomach. It wasn't going to be easy, especially since this would be my first hackathon experience. I regrouped with some of my colleagues from Project Matrix – Vikas and Saurabh – and then checked with Vaidee, Santosh, and Satheesh to see if they were curious about joining the hackathon.
 
@@ -77,7 +77,7 @@ Monday kicked off with our design thinking workshop about understanding how to i
 
 Our word was "Invisibility" and the object was a box with a pair of sunglasses. Our team quickly came up with an idea to create glasses for visually impaired people, using AI, lidar sensors, and bone conduction to help them see. We called it VisionX. It was an interesting and instantly creative pitch. There were fascinating ideas from other teams too – it was great to see so much creativity in such a short timeframe.
 
-The day was all about going back to basics – A4 sheets, markers, pens, highlighters, and sticky notes. Our real plan? Play it cool. Not in a sneaky way—just keep our search idea under wraps, mock up a problem statement, and ideate like we meant it. We didn’t want to spill the beans before our CNA prototype was ready. Smart, right?
+The day was all about going back to basics – A4 sheets, markers, pens, highlighters, and sticky notes. Our real plan? Play it cool. Not in a sneaky way - just keep our search idea under wraps, mock up a problem statement, and ideate like we meant it. We didn’t want to spill the beans before our CNA prototype was ready. Smart, right?
 
 ---
 
@@ -101,13 +101,13 @@ While I was in the midst of deck preparation, Vikas had a breakthrough with inje
 
 ## Chapter 10: Judgment Day
 
-Thursday, March 27th—Hackathon Day. Up at 5:30 (a miracle I don’t repeat), I used my 45-minute commute to feed ChatGPT my slides and get a pitch script. By the time I had my ID card on and entered the campus, my script was ready. I blocked a meeting room and started pre-reading and preparing the tone of my pitch – figuring out what to say and how to say it.
+Thursday, March 27th - Hackathon Day. Up at 5:30 (a miracle I don’t repeat), I used my 45-minute commute to feed ChatGPT my slides and get a pitch script. By the time I had my ID card on and entered the campus, my script was ready. I blocked a meeting room and started pre-reading and preparing the tone of my pitch – figuring out what to say and how to say it.
 
 Saurabh joined me, and we practiced our pitch together. Vikas arrived with his polished demo, and we did several run-throughs to fit everything into our allotted 7 minutes. We noticed we had excellent synchronization among us: Vikas handling the demo, Saurabh and I on the meeting room stage. And then, like true software engineers thinking about redundancy and high availability, we decided to have backup plans for our deck and demo as well. We replicated everything on all three of our laptops – better safe than sorry!
 
 It was almost 10:45 AM by then, and we headed to the pitch arena (the same place where I had done my tech jam a couple of months earlier – the familiarity was somewhat comforting). That's when we hit a snag: Vikas's laptop wouldn't connect to the screen. Thankfully, we had our redundancy plan! We tried with my laptop, and it worked. 
 
-A chit-pick decided the pitch order, and guess what? We were first. My stomach did flips, but I was secretly glad—wrap it up early, then chill. I was in the middle of rapid mental rehearsals, trying to memorize my hook and transition lines. And then, it was our turn.
+A chit-pick decided the pitch order, and guess what? We were first. My stomach did flips, but I was secretly glad - wrap it up early, then chill. I was in the middle of rapid mental rehearsals, trying to memorize my hook and transition lines. And then, it was our turn.
 
 ---
 
@@ -120,7 +120,7 @@ I headed straight onto the stage – had a quick moment where my mind went blank
 - "Tell me about the largest human gathering Mahakumbh recently happened in India. What is its significance?"
 - "Who will win Singapore General Elections 2025?"
 
-That last one got laughs—AI stayed neutral, saying it can’t predict but dished out how parties were prepping. The demo was well-received. Then, the tech bit: "What’s behind Ask CNA?" We explained: "When you ask a question, Ask CNA doesn't just look for keywords. It goes deeper." We explained how Ask CNA uses semantic embeddings to break down the meaning of words, not just matching them literally. Then, it searches through the vector database of CNA content (scraped in real-time) to pull out the most relevant articles. The system ranks these articles based on semantic relevance and similarity. From there, it processes this information through Large Language Models, ensuring that what users get is not just factual but trusted, insightful, and comprehensive.
+That last one got laughs - AI stayed neutral, saying it can’t predict but dished out how parties were prepping. The demo was well-received. Then, the tech bit: "What’s behind Ask CNA?" We explained: "When you ask a question, Ask CNA doesn't just look for keywords. It goes deeper." We explained how Ask CNA uses semantic embeddings to break down the meaning of words, not just matching them literally. Then, it searches through the vector database of CNA content (scraped in real-time) to pull out the most relevant articles. The system ranks these articles based on semantic relevance and similarity. From there, it processes this information through Large Language Models, ensuring that what users get is not just factual but trusted, insightful, and comprehensive.
 
 And we pulled it off! Thanks to Vikas and Saurabh for the incredible synchronization we had.
 
@@ -128,7 +128,7 @@ And we pulled it off! Thanks to Vikas and Saurabh for the incredible synchroniza
 
 ## Chapter 12: The Judges' Response
 
-Judges loved it. Hai Zhou and Anil had sharp feedback—guardrails for hallucinations (one bad screenshot could tank us), and why just news, not entertainment like podcasts or OTT? Prashant pushed on next steps—metrics, agentic capabilities? Solid questions, big props—we felt good.
+Judges loved it. Hai Zhou and Anil had sharp feedback - guardrails for hallucinations (one bad screenshot could tank us), and why just news, not entertainment like podcasts or OTT? Prashant pushed on next steps - metrics, agentic capabilities? Solid questions, big props - we felt good.
 
 The other pitches soon began, and some were really impressive – especially Jing Jing's, with a slick presentation likely made in Figma, featuring great design elements and elegant animations, pitching a news app for kids.
 
@@ -138,13 +138,13 @@ Lunch was classic Singaporean:  boiled vegetables, bee hoon, vegetarian fried ri
 
 ## Chapter 13: The Announcement
 
-Soon, the final pitches wrapped up, and the moment everyone had been eagerly awaiting arrived. The first award, Crowd Favorite, was handed to Jing Jing’s team for their clever News for Kids app—a well-deserved nod to their charm and creativity.
+Soon, the final pitches wrapped up, and the moment everyone had been eagerly awaiting arrived. The first award, Crowd Favorite, was handed to Jing Jing’s team for their clever News for Kids app - a well-deserved nod to their charm and creativity.
 
-Next came the 2nd Runner-Up: News Mate, crafted by Raghu and his crew. Their "Hey CNA" assistant, designed for busy folks on the move, brought a slick CNA companion to life—perfect for those who need news in a snap.
+Next came the 2nd Runner-Up: News Mate, crafted by Raghu and his crew. Their "Hey CNA" assistant, designed for busy folks on the move, brought a slick CNA companion to life - perfect for those who need news in a snap.
 
 Then, the 1st Runner-Up was announced, and guess who stole the spotlight again? Jing Jing’s team! Two awards in their pocket.
 
-Finally, it was time for the big reveal: the winner. Leah, our lively MC, turned to the crowd with a grin, teasing, “So, who do you think it is?” The room buzzed as chants rippled through— “Team 7!” “Ask CNA!”—and my heart skipped a beat. That was us.
+Finally, it was time for the big reveal: the winner. Leah, our lively MC, turned to the crowd with a grin, teasing, “So, who do you think it is?” The room buzzed as chants rippled through - “Team 7!” “Ask CNA!” - and my heart skipped a beat. That was us.
 
 And then it hit: we’d won the first Digital Hackathon at Mediacorp! Team Nio! Cheers! After countless hours of brainstorming, ideating, researching, coding, building, and pitching, we’d pulled it off. What a moment to experience! Hard work pays off, they say, and right then, I felt every ounce of that truth sink in.
 
@@ -156,6 +156,6 @@ We went up on stage for the formal ceremony, and Anil shared some kind words:
 
 ## **Epilogue**
 
-At the heart of it, hackathons aren’t about the prizes—they’re about the challenge, the learning, and most importantly, the connections forged along the way. The late-night debugging, endless Slack messages, the rush for a working prototype, prepping the pitch—these are the moments that truly matter.
+At the heart of it, hackathons aren’t about the prizes - they’re about the challenge, the learning, and most importantly, the connections forged along the way. The late-night debugging, endless Slack messages, the rush for a working prototype, prepping the pitch - these are the moments that truly matter.
 
-Hackathons remind us that the best ideas come from diverse minds collaborating towards a shared vision—and that’s the real win.🏆 🚀
+Hackathons remind us that the best ideas come from diverse minds collaborating towards a shared vision - and that’s the real win.🏆 🚀
