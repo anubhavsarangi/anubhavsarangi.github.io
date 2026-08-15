@@ -1,0 +1,18 @@
+title: Anubhav
+description: Notes on software, data, AI, travel, and the things worth remembering.
+url: "https://anubhavsarangi.github.io"
+baseurl: ""
+author: Anubhav
+timezone: Asia/Singapore
+permalink: /writing/:title/
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+exclude:
+  - .bundle
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - vendor

@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<article class="post">
+  <header class="post-header">
+    <a class="eyebrow" href="{{ '/writing/' | relative_url }}">Writing</a>
+    <h1>{{ page.title }}</h1>
+    {% if page.summary %}<p class="post-summary">{{ page.summary }}</p>{% endif %}
+    <div class="post-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d %B %Y" }}</time>
+      {% if page.tags %}
+        <span aria-hidden="true">·</span>
+        <span class="post-tags">{% for tag in page.tags %}<a href="{{ '/tags/' | relative_url }}#{{ tag | slugify }}">{{ tag }}</a>{% unless forloop.last %}<span aria-hidden="true"> / </span>{% endunless %}{% endfor %}</span>
+      {% endif %}
+    </div>
+  </header>
+  <div class="prose">
+    {{ content }}
+  </div>
+  <footer class="post-end">
+    <span>End note.</span>
+    <a href="{{ '/writing/' | relative_url }}">All writing →</a>
+  </footer>
+</article>

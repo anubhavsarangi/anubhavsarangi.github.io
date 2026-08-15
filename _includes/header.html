@@ -1,0 +1,10 @@
+<header class="site-header">
+  <a class="site-name" href="{{ '/' | relative_url }}" aria-label="{{ site.title }} home">anubhav sarangi<span>.</span></a>
+  <nav aria-label="Main navigation">
+    <a {% if page.url == '/' %}aria-current="page"{% endif %} href="{{ '/' | relative_url }}">Home</a>
+    <a {% if page.url contains '/writing' %}aria-current="page"{% endif %} href="{{ '/writing/' | relative_url }}">Writing</a>
+    <a {% if page.url == '/tags/' %}aria-current="page"{% endif %} href="{{ '/tags/' | relative_url }}">Tags</a>
+    <a {% if page.url == '/about/' %}aria-current="page"{% endif %} href="{{ '/about/' | relative_url }}">About</a>
+    <button class="theme-toggle" type="button" data-theme-toggle aria-label="Switch colour theme" aria-pressed="false"><span aria-hidden="true">◐</span></button>
+  </nav>
+</header>
