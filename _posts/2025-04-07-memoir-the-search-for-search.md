@@ -2,6 +2,7 @@
 layout: post
 title: "Memoir: The Search for Search"
 date: 2025-04-07
+published: false
 tags: [memoir, ai, search]
 summary: A first hackathon, a curious search problem, and the path from a loose idea to Ask CNA.
 ---
