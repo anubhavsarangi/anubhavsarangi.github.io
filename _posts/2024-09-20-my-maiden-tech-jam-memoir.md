@@ -2,6 +2,7 @@
 layout: post
 title: "My Maiden Tech Jam Memoir"
 date: 2024-09-20
+published: false
 tags: [memoir, speaking, data]
 summary: A first Tech Jam, weeks of preparation, and learning to make technical work land with a room.
 ---
